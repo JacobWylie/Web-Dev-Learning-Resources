@@ -1,5 +1,5 @@
 <img src="https://images.unsplash.com/photo-1468070454955-c5b6932bd08d?dpr=0.800000011920929&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1000&amp;q=80&amp;cs=tinysrgb&amp;crop=" height="400" width="800">
-<h1>My List of Resources for Learing Web Development</h1>
+<h1>My List of Resources for Learning Web Development</h1>
 <h3>Table of Contents</h3>
 <ol>
 <li><a href='#bootcamp'>Bootcamp Style</a></li>
