@@ -28,7 +28,7 @@
 <li><a href="http://upskillcourses.com/p/essential-web-developer-course">Upskill: The Essential Web Developer Course</a></li>
 <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
 <li><a href="http://www.theodinproject.com/courses">The Odin Project</a></li>
-<li><a href="https://www.vikingcodeschool.com/prep">the Viking Prep Work</a></li>
+<li><a href="https://www.vikingcodeschool.com/prep">The Viking School Prep Work</a></li>
 <li><a href="https://egghead.io/">Egghead</a></li>
 <li><a href="https://www.codeschool.com/">Code School</a> *Paid*</li>
 <li><a href="https://dash.generalassemb.ly/">Dash - General Assembly</a></li>
