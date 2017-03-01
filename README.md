@@ -158,14 +158,14 @@
 
 <h4 id='assorted'>Assorted Tools/Sites</h4>
 <ul>
-<li><a href="https://overapi.com"></a>Over API</li>
-<li><a href="https://hackr.io/"></a>Hackr.io</li>
-<li><a href="https://github.com/iRaul/awesome-portfolios"></a>Awesome Portfolios</li>
-<li><a href="http://blog.lilianakastilio.co.uk/blog/2016/01/01/Create-a-bucket-and-deploy-a-website-to-amazon-s3/"></a>Deploy a Website to Amazon S3</li>
-<li><a href="https://github.com/255kb/stack-on-a-budget"></a>Stack on a Budget</li>
-<li><a href="https://www.testdome.com/"></a>Testdome</li>
-<li><a href="https://www.codewars.com/"></a>Codewars</li>
-<li><a href="https://github.com/vinnyA3/devs-codex"></a>Developer's Codex: Collection of Tools</li>
+<li><a href="https://overapi.com">Over API</a></li>
+<li><a href="https://hackr.io/">Hackr.io</a></li>
+<li><a href="https://github.com/iRaul/awesome-portfolios">Awesome Portfolios</a></li>
+<li><a href="http://blog.lilianakastilio.co.uk/blog/2016/01/01/Create-a-bucket-and-deploy-a-website-to-amazon-s3/">Deploy a Website to Amazon S3</a></li>
+<li><a href="https://github.com/255kb/stack-on-a-budget">Stack on a Budget</a></li>
+<li><a href="https://www.testdome.com/">Testdome</a></li>
+<li><a href="https://www.codewars.com/">Codewars</a></li>
+<li><a href="https://github.com/vinnyA3/devs-codex">Developer's Codex: Collection of Tools</a></li>
 <li><a href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></li>
 <li><a href="http://frontendhappyhour.com/">Front End Happy Hour Podcast</a></li>
 <li><a href="https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/">How to Use the Command Line</a></li>
@@ -184,7 +184,7 @@
 
 <h4 id='jobs'>Jobs</h4>
 <ul>
-<li><a href="https://www.honeypot.io"></a>Honey Pot</li>
+<li><a href="https://www.honeypot.io">Honey Pot</a></li>
 <li><a href="https://www.xing.com">Xing</a></li>
 <li><a href="https://www.linkedin.com">LinkedIn</a></li>
 <li><a href="https://de.indeed.com/">Indeed</a></li>
