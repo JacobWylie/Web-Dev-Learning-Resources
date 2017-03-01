@@ -1,3 +1,4 @@
+<img src="https://images.unsplash.com/photo-1468070454955-c5b6932bd08d?dpr=0.800000011920929&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1000&amp;q=80&amp;cs=tinysrgb&amp;crop=" height="400" width="800">
 <h1>My List of Resources for Learing Web Development</h1>
 <h3>Table of Contents</h3>
 
@@ -15,11 +16,11 @@
 
 <h4 id='bootcamp'>Bootcamp Style</h4>
 <ul>
-<li><a href="#">Team Treehouse</a> *Paid</li>
-<li><a href="#">The Web Developer Bootcamp</a> *Paid</li>
+<li><a href="https://teamtreehouse.com/home">Team Treehouse</a> *Paid*</li>
+<li><a href="#">The Web Developer Bootcamp</a> *Paid*</li>
 <li><a href="#">Upskill</a></li>
 <li><a href="#">FreeCodeCamp</a></li>
-<li><a href="#">Udacity</a></li>
+<li><a href="#">Udacity</a> *Paid and Free Courses*</li>
 <li><a href="#">Site</a></li>
 <li><a href="#">Site</a></li>
 </ul>
