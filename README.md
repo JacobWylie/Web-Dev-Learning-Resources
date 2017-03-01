@@ -18,8 +18,8 @@
 </ol>
 
 <h1>Resources</h1>
-<h3>-In No Particular Order-</h3>
 <h3>*Free Unless Otherwise Noted*</h3>
+<h3>-In No Particular Order-</h3>
 
 <h4 id='bootcamp'>Bootcamp Style</h4>
 <ul>
