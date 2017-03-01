@@ -5,8 +5,8 @@
 <li><a href='#bootcamp'>Bootcamp Style</a></li>
 <li><a href ='#books'>Books</a></li>
 <li><a href='#youtube'>YouTube Channels</a></li>
-<li><a href='#html'>Learn HTML/CSS</a></li>
-<li><a href='#javascript'>Learn JavaScript</a></li>
+<li><a href='#html'>HTML/CSS</a></li>
+<li><a href='#javascript'>JavaScript</a></li>
 <li><a href='#frameworks'>JavaScript Frameworks</a></li>
 <li><a href='#ruby'>Ruby/Rails</a></li>
 <li><a href='#cssStuff'>CSS Stuff</a></li>
@@ -65,7 +65,7 @@
 <li><a href="http://codepen.io/j-w-v/post/25-learn-to-code-focused-youtube-channels">25 'Learn To Code' Focused YouTube channels</a></li>
 </ul>
 
-<h4 id='html'>Learn HTML/CSS</h4>
+<h4 id='html'>HTML/CSS</h4>
 <ul>
 <li><a href="http://marksheet.io/">MarkSheet</a></li>
 <li><a href="http://learn.shayhowe.com">Learn to Code HTML &amp; CSS</a></li>
@@ -76,7 +76,7 @@
 <li><a href="https://openclassrooms.com/courses/build-your-website-with-html5-and-css3/practical-exercise-step-by-step-creation-of-a-website">Open Class Room</a></li>
 </ul>
 
-<h4 id='javascript'>Learn JavaScript</h4>
+<h4 id='javascript'>JavaScript</h4>
 <ul>
 <li><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></li>
 <li><a href="https://www.udemy.com/understand-javascript/learn/v4/overview">JavaScript: Understanding the Weird Parts</a> *Paid*</li>
