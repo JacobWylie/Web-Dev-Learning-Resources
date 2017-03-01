@@ -14,7 +14,7 @@
 <li><a href='#design'>Design</a></li>
 <li><a href='#reddit'>Reddit Posts</a></li>
 <li><a href='#assorted'>Assorted Tools/Sites</a></li>
-<li><a href='#jobs'>Jobs</a>>/li>
+<li><a href='#jobs'>Jobs</a></li>
 </ol>
 
 <h1>Resources</h1>
