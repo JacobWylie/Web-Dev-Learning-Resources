@@ -184,7 +184,7 @@
 
 <h4 id='jobs'>Jobs</h4>
 <ul>
-<li><a href="https://www.honeypot.io/"></a>Honey Pot</li>
+<li><a href="https://www.honeypot.io"></a>Honey Pot</li>
 <li><a href="https://www.xing.com">Xing</a></li>
 <li><a href="https://www.linkedin.com">LinkedIn</a></li>
 <li><a href="https://de.indeed.com/">Indeed</a></li>
