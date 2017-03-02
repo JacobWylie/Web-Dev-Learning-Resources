@@ -138,6 +138,7 @@
 <li><a href="https://dribbble.com/">Dribble</a></li>
 <li><a href="https://medium.muz.li/">Muzli</a></li>
 <li><a href="https://codepen.io">Codepen</a></li>
+<li><a href="http://briefbox.me">Briefbox</a></li>
 </ul>
 
 <h4 id='reddit'>Reddit</h4>
