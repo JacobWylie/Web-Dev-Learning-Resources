@@ -72,7 +72,8 @@
 <li><a href="https://internetingishard.com/html-and-css/">HTML and CSS is Hard</a></li>
 <li><a href="http://flukeout.github.io/#">CSS Diner</a></li>
 <li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
-<li><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
+<li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
+<li><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></li>
 <li><a href="https://openclassrooms.com/courses/build-your-website-with-html5-and-css3/practical-exercise-step-by-step-creation-of-a-website">Open Class Room</a></li>
 </ul>
 
@@ -166,6 +167,7 @@
 <li><a href="https://github.com/255kb/stack-on-a-budget">Stack on a Budget</a></li>
 <li><a href="https://www.testdome.com/">Testdome</a></li>
 <li><a href="https://www.codewars.com/">Codewars</a></li>
+<li><a href="https://codecombat.com/">Code Combat</a></li>
 <li><a href="https://github.com/vinnyA3/devs-codex">Developer's Codex: Collection of Tools</a></li>
 <li><a href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></li>
 <li><a href="http://frontendhappyhour.com/">Front End Happy Hour Podcast</a></li>
