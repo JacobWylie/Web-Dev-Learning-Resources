@@ -193,6 +193,7 @@
 <li><a href="https://www.xing.com">Xing</a></li>
 <li><a href="https://www.linkedin.com">LinkedIn</a></li>
 <li><a href="https://de.indeed.com/">Indeed</a></li>
+<li><a href="http://stackoverflow.com/jobs">Stack Overflow Jobs</a></li>
 <li><a href="https://4scotty.com/en">4 Scotty</a></li>
 <li><a href="https://angel.co/">AngelList</a></li>
 <li><a href="https://www.launchcode.org/">Launch Code</a></li>
