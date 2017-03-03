@@ -72,7 +72,7 @@
 <li><a href="https://internetingishard.com/html-and-css/">HTML and CSS is Hard</a></li>
 <li><a href="http://flukeout.github.io/#">CSS Diner</a></li>
 <li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
-<li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
+<li><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
 <li><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></li>
 <li><a href="https://openclassrooms.com/courses/build-your-website-with-html5-and-css3/practical-exercise-step-by-step-creation-of-a-website">Open Class Room</a></li>
 </ul>
