@@ -188,6 +188,8 @@
 <h4 id='jobs'>Jobs</h4>
 <ul>
 <li><a href="https://www.honeypot.io">Honey Pot</a></li>
+<li><a href="https://whoishiring.io/">Whoishiring.io</a></li>
+<li><a href="https://firstdevjob.com/">Frist Dev Job</a></li>
 <li><a href="https://www.xing.com">Xing</a></li>
 <li><a href="https://www.linkedin.com">LinkedIn</a></li>
 <li><a href="https://de.indeed.com/">Indeed</a></li>
