@@ -80,6 +80,7 @@
 <h4 id='javascript'>JavaScript</h4>
 <ul>
 <li><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></li>
+<li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
 <li><a href="https://www.udemy.com/understand-javascript/learn/v4/overview">JavaScript: Understanding the Weird Parts</a> *Paid*</li>
 <li><a href="https://watchandcode.com/p/practical-javascript">Watch and Code: Practical JavaScript</a></li>
 <li><a href="https://javascript30.com/">JavaScript 30</a></li>
