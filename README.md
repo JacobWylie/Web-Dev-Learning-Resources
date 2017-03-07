@@ -198,7 +198,7 @@
 <li><a href="http://stackoverflow.com/jobs">Stack Overflow Jobs</a></li>
 <li><a href="https://4scotty.com/en">4 Scotty</a></li>
 <li><a href="https://angel.co/">AngelList</a></li>
-<li><a href="https://workinstartups.com/">Work in Startups</a></li>
+<li><a href="http://workinstartups.com/">Work in Startups</a></li>
 <li><a href="https://www.launchcode.org/">Launch Code</a></li>
 </ul>
 
