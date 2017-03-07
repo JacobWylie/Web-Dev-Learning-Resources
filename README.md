@@ -105,7 +105,7 @@
 
 <h4 id='cssStuff'>CSS Stuff</h4>
 <ul>
-<li><a href="http://cssreference.io/l">CSS Reference</a></li>
+<li><a href="http://cssreference.io/">CSS Reference</a></li>
 <li><a href="https://getmdl.io/index.html">Material Design Lite</a></li>
 <li><a href="https://css-tricks.com/gulp-for-beginners/">Gulp for Beginners</a></li>
 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
