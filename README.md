@@ -128,6 +128,7 @@
 <li><a href="https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/">npm for Beginners</a></li>
 <li><a href="https://github.com/sahat/hackathon-starter">Hackathon Starter</a></li>
 <li><a href="https://nodeschool.io/">Node School</a></li>
+<li><a href="https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm">The Basics of Package.json in Node.js and npm</a></li>
 </ul>
 
 <h4 id='design'>Design</h4>
