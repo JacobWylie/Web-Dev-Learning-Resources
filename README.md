@@ -13,6 +13,7 @@
 <li><a href='#node'>Node.js</a></li>
 <li><a href='#design'>Design</a></li>
 <li><a href='#reddit'>Reddit Posts</a></li>
+<li><a href='#podcasts'>Podcasts</a></li>
 <li><a href='#assorted'>Assorted Tools/Sites</a></li>
 <li><a href='#jobs'>Jobs</a></li>
 </ol>
@@ -164,6 +165,14 @@
 <li><a href="https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/">My Programming Notes (275 pages) - Summaries of numerous tutorials...</a></li>
 </ul>
 
+<h4 id='podcasts'>Podcasts</h4>
+<ul>
+<li><a href="http://frontendhappyhour.com/">Front End Happy Hour</a></li>
+<li><a href="http://www.codenewbie.org/">Code Newbie</a></li>
+<li><a href="https://devchat.tv/js-jabber">JavaScript Jabber</a></li>
+<li><a href="http://shoptalkshow.com/">Shop Talk</a></li>
+</ul>
+
 <h4 id='assorted'>Assorted Tools/Sites</h4>
 <ul>
 <li><a href="https://overapi.com">Over API</a></li>
@@ -176,7 +185,6 @@
 <li><a href="https://codecombat.com/">Code Combat</a></li>
 <li><a href="https://github.com/vinnyA3/devs-codex">Developer's Codex: Collection of Tools</a></li>
 <li><a href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></li>
-<li><a href="http://frontendhappyhour.com/">Front End Happy Hour Podcast</a></li>
 <li><a href="https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/">How to Use the Command Line</a></li>
 <li><a href="https://education.github.com/pack">GitHub Student Developer Pack</a></li>
 <li><a href="https://html5up.net/">HTML5 Up Templates</a></li>
