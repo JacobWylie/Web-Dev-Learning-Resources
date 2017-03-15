@@ -163,6 +163,7 @@
 <li><a href="https://www.reddit.com/r/learnprogramming/comments/5juxmb/ive_been_learning_how_to_build_web_apps_in_the/">I've been learning how to build web apps in the last few months. Here's a summary...</a></li>
 <li><a href="https://www.reddit.com/r/webdev/comments/5j06u0/looking_for_tips_on_how_to_choose_a_color_scheme/">Looking for tips on how to choose a color scheme for my site.</a></li>
 <li><a href="https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/">My Programming Notes (275 pages) - Summaries of numerous tutorials...</a></li>
+<li><a href="https://www.reddit.com/r/learnprogramming/comments/5zc24o/the_best_way_to_learn_how_to_code/">The Best Way To Learn How To Code</a></li>
 </ul>
 
 <h4 id='podcasts'>Podcasts</h4>
@@ -183,6 +184,7 @@
 <li><a href="https://www.testdome.com/">Testdome</a></li>
 <li><a href="https://www.codewars.com/">Codewars</a></li>
 <li><a href="https://codecombat.com/">Code Combat</a></li>
+<li><a href="http://www.exercism.io/">Exercism</a></li>
 <li><a href="https://github.com/vinnyA3/devs-codex">Developer's Codex: Collection of Tools</a></li>
 <li><a href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></li>
 <li><a href="https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/">How to Use the Command Line</a></li>
