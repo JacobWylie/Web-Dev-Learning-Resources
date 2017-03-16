@@ -181,6 +181,7 @@
 <li><a href="https://github.com/iRaul/awesome-portfolios">Awesome Portfolios</a></li>
 <li><a href="http://blog.lilianakastilio.co.uk/blog/2016/01/01/Create-a-bucket-and-deploy-a-website-to-amazon-s3/">Deploy a Website to Amazon S3</a></li>
 <li><a href="https://github.com/255kb/stack-on-a-budget">Stack on a Budget</a></li>
+<li><a href="https://github.com/kamranahmedse/developer-roadmap">Web Developer Roadmap - 2017</a></li>
 <li><a href="https://www.testdome.com/">Testdome</a></li>
 <li><a href="https://www.codewars.com/">Codewars</a></li>
 <li><a href="https://codecombat.com/">Code Combat</a></li>
