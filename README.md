@@ -216,6 +216,25 @@
 <li><a href="https://angel.co/">AngelList</a></li>
 <li><a href="http://workinstartups.com/">Work in Startups</a></li>
 <li><a href="https://www.launchcode.org/">Launch Code</a></li>
+<li><a href="http://www.jobsinberlin.eu/">Jobs in Berlin</a></li>
+<li><a href="http://www.jobisjob.de/">Job is Job</a></li>
+<li><a href="https://entwickler.de/jobs">Entwickler.de</a></li>
+<li><a href="https://www.thelocal.de/jobs/">The Local</a></li>
+<li><a href="http://berlinstartupjobs.com/">Berlin Startup Jobs</a></li>
+<li><a href="https://jobbatical.com/">Jobbatical</a></li>
+<li><a href="http://join-startups.com/">Join Startups</a></li>
+<li><a href="http://www.woloho.com/#home">Woloho</a></li>
+<li><a href="http://www.gruenderszene.de/jobboerse/suche">Gruenderszene</a></li>
+<li><a href="https://startupsucht.com/">Startup Sucht</a></li>
+<li><a href="http://www.work-in-berlin.com/">Work in Berlin</a></li>
+<li><a href="http://www.berliner-jobmarkt.de/">Berliner Job Market</a></li>
+<li><a href="https://www.toytowngermany.com/jobs/">Toytown Jobs</a></li>
+<li><a href="https://www.xpatjobs.de/">Xpat Jobs</a></li>
+<li><a href="https://www.monster.de/">Monster.de</a></li>
+<li><a href="https://www.stepstone.de/">Stepstone</a></li>
+<li><a href="https://www.stellenanzeigen.de/">Stellanzeigen</a></li>
+<li><a href="http://www.meinestadt.de/">Meinestadt</a></li>
+<li><a href="http://de.gigajob.com/index.html">Giga Job</a></li>
 </ul>
 
 
