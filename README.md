@@ -50,6 +50,7 @@
 <li><a href="https://leanpub.com/the-road-to-learn-react">The Road to Learn React</a></li>
 <li><a href="https://git-scm.com/book/en/v2">Pro Git</a></li>
 <li><a href="https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=la_B001IR3Q7I_1_3?s=books&ie=UTF8&qid=1488388826&sr=1-3">JavaScript and JQuery: Interactive Front-End Web Development</a> *Paid*</li>
+<li><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books</a></li>
 </ul>
 
 <h4 id='youtube'>YouTube Channels</h4>
