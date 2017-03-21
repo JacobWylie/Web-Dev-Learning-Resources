@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2017/02/05/00/19/web-design-2038872_960_720.jpg" height="400" width="800">
+<img src="https://cdn.pixabay.com/photo/2017/02/05/00/19/web-design-2038872_960_720.jpg" height="350" width="750">
 <h1>My List of Resources for Learning Web Development</h1>
 <h3>Table of Contents</h3>
 <ol>
