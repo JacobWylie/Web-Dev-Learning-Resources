@@ -99,6 +99,8 @@
 <li><a href="https://www.udemy.com/understand-javascript/learn/v4/overview">JavaScript: Understanding the Weird Parts</a> *Paid*</li>
 <li><a href="https://watchandcode.com/p/practical-javascript">Watch and Code: Practical JavaScript</a></li>
 <li><a href="https://javascript30.com/">JavaScript 30</a></li>
+<li><a href="https://github.com/ericelliott/essential-javascript-links">Essential JavaScript Links</a></li>
+<li><a href="https://github.com/oneuijs/You-Dont-Need-jQuery">You dont need jQuery</a></li>
 <li><a href="https://edabit.com/explore">Edabit</a></li>
 <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">JavaScript Interview Questions</a></li>
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JavaScript Concepts</a></li>
@@ -158,6 +160,7 @@
 <h4 id='api'>API</h4>
 <ul>
 <li><a href="https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.pfymel1ln">What is an API? In English, please.</a></li>
+<li><a href="https://github.com/toddmotto/public-apis">List of Public APIs</a></li>
 <li><a href="https://www.youtube.com/watch?v=s7wmiS2mSXY">YouTube: What is an API?</a></li>
 <li><a href="https://zapier.com/learn/apis/chapter-1-introduction-to-apis/">Zapier</a></li>
 </ul>
