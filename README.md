@@ -30,7 +30,8 @@
 <li><a href="https://teamtreehouse.com/home">Team Treehouse</a> *Paid*</li>
 <li><a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview">The Web Developer Bootcamp</a> *Paid*</li>
 <li><a href="http://upskillcourses.com/p/essential-web-developer-course">Upskill: The Essential Web Developer Course</a></li>
-<li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+<li><a href="https://beta.freecodecamp.com/">The Net Ninja</a></li>
+<li><a href="http://thenetninja.co.uk/">FreeCodeCamp - beta (more up-to-date)</a></li>
 <li><a href="http://www.theodinproject.com/courses">The Odin Project</a></li>
 <li><a href="https://www.vikingcodeschool.com/prep">The Viking School Prep Work</a></li>
 <li><a href="https://egghead.io/">Egghead</a></li>
