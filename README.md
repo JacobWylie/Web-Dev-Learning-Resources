@@ -114,6 +114,7 @@
 <li><a href="https://scotch.io/">Scotch.io</a></li>
 <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: React 101</a></li>
 <li><a href="https://github.com/markerikson/react-redux-links">Mark Erikson: React/Redux Links</a></li>
+<li><a href="http://yoember.com/">Yo Ember</a></li>
 </ul>
 
 <br>
