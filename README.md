@@ -110,13 +110,15 @@
 
 <br>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" alt="react logo">
-<h4 id='frameworks'>JavaScript Frameworks</h4>
+<h4 id='frameworks'>JavaScript Frameworks/Libraries</h4>
 <ul>
 <li><a href="https://reacttraining.com/online/react-fundamentals">React Fundamentals</a></li>
 <li><a href="https://scotch.io/">Scotch.io</a></li>
 <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: React 101</a></li>
 <li><a href="https://github.com/markerikson/react-redux-links">Mark Erikson: React/Redux Links</a></li>
 <li><a href="http://yoember.com/">Yo Ember</a></li>
+<li><a href="https://www.sitepoint.com/jquery-popular-plugins-list/">Sitepoint: Popular jQuery Plugins</a></li>
+<li><a href="http://www.unheap.com/">Unheap: A tidy repository of javascript plugins</a></li>
 </ul>
 
 <br>
