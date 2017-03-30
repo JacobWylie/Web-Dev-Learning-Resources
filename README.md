@@ -105,6 +105,7 @@
 <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">JavaScript Interview Questions</a></li>
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JavaScript Concepts</a></li>
 <li><a href="http://www.deadcoderising.com/2017-03-28-es6-destructuring-an-elegant-way-of-extracting-data-from-arrays-and-objects-in-javascript/">ES6: Destructuring — an elegant way of extracting data from arrays and objects in JavaScript</a></li>
+<li><a href="https://css-tricks.com/gulp-for-beginners/">Gulp for Beginners</a></li>
 </ul>
 
 <br>
@@ -134,7 +135,6 @@
 <ul>
 <li><a href="http://cssreference.io/">CSS Reference</a></li>
 <li><a href="https://getmdl.io/index.html">Material Design Lite</a></li>
-<li><a href="https://css-tricks.com/gulp-for-beginners/">Gulp for Beginners</a></li>
 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
 <li><a href="https://gist.github.com/MWins/e441e28320b1a748f1f2">Frontend Frameworks</a></li>
 <li><a href="https://github.com/logeshpaul/Frontend-Cheat-Sheets">Frontend Cheat Sheets</a></li>
