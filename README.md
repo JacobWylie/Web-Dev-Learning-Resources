@@ -119,7 +119,8 @@
 <li><a href="https://github.com/markerikson/react-redux-links">Mark Erikson: React/Redux Links</a></li>
 <li><a href="http://yoember.com/">Yo Ember</a></li>
 <li><a href="https://www.sitepoint.com/jquery-popular-plugins-list/">Sitepoint: Popular jQuery Plugins</a></li>
-<li><a href="http://www.unheap.com/">Unheap: A tidy repository of javascript plugins</a></li>
+<li><a href="http://www.unheap.com/">Unheap: A tidy repository of jQuery plugins</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY">Webpack 2 Video Tutorials</a></li>
 </ul>
 
 <br>
