@@ -177,6 +177,8 @@
 <li><a href="https://blog.benroux.me/designing-as-a-developer/">Designing as a Developer</a></li>
 <li><a href="https://resilientwebdesign.com/introduction/">Resilient Web Design</a></li>
 <li><a href="https://prowebtype.com/">Professional Web typography</a></li>
+<li><a href="https://ebooks.webflow.com/ebook/web-design-101">Web Design 101</a></li>
+<li><a href="http://designingfortheweb.co.uk/index.php">Designing for the Web</a></li>
 <li><a href="https://www.checkli.com/blog/free-photos-for-blogs-and-websites/">Free Photos For Websites</a></li>
 <li><a href="http://freefrontend.com/css-forms/?ref=webdesignernews.com">77 CSS Forms</a></li>
 <li><a href="http://expo.getbootstrap.com/">Bootstrap Expo</a></li>
