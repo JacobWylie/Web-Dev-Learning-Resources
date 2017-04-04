@@ -36,11 +36,11 @@
 <li><a href="https://www.vikingcodeschool.com/prep">The Viking School Prep Work</a></li>
 <li><a href="https://egghead.io/">Egghead</a></li>
 <li><a href="https://www.codeschool.com/">Code School</a> *Paid*</li>
-<li><a href="https://dash.generalassemb.ly/">Dash - General Assembly</a></li>
+<li><a href="https://laracasts.com/">Laracasts</a></li>
 <li><a href="https://www.udacity.com/">Udacity</a> *Paid and Free Options*</li>
 <li><a href="https://developers.google.com/training/web/">Google Developer Training</a></li>
 <li><a href="https://blog.petrovic.gr/2016/12/frontend-development-a-learning-guide/">Web Development Learning Guide – A Frontend Approach</a></li>
-<li><a href="https://www.pluralsight.com/">Pluralsight</a></li>
+<li><a href="https://www.pluralsight.com/">Pluralsight</a></li> *Paid*
 <li><a href="https://beta.hacksaw.academy/">Hacksaw Academy</a> *Paid*</li>
 <li><a href="https://www.codecademy.com/">Code Academy</a></li>
 <li><a href="https://www.eventedmind.com/">Evented Mind</a></li>
@@ -88,6 +88,7 @@
 <li><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
 <li><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></li>
 <li><a href="https://openclassrooms.com/courses/build-your-website-with-html5-and-css3/practical-exercise-step-by-step-creation-of-a-website">Open Class Room</a></li>
+<li><a href="https://dash.generalassemb.ly/">Dash - General Assembly</a></li>
 </ul>
 
 <br>
