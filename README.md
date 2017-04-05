@@ -107,7 +107,6 @@
 <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">JavaScript Interview Questions</a></li>
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JavaScript Concepts</a></li>
 <li><a href="http://www.deadcoderising.com/2017-03-28-es6-destructuring-an-elegant-way-of-extracting-data-from-arrays-and-objects-in-javascript/">ES6: Destructuring — an elegant way of extracting data from arrays and objects in JavaScript</a></li>
-<li><a href="https://css-tricks.com/gulp-for-beginners/">Gulp for Beginners</a></li>
 </ul>
 
 <br>
@@ -121,6 +120,8 @@
 <li><a href="http://yoember.com/">Yo Ember</a></li>
 <li><a href="https://www.sitepoint.com/jquery-popular-plugins-list/">Sitepoint: Popular jQuery Plugins</a></li>
 <li><a href="http://www.unheap.com/">Unheap: A tidy repository of jQuery plugins</a></li>
+<li><a href="https://css-tricks.com/gulp-for-beginners/">Gulp for Beginners</a></li>
+<li><a href="http://front-end-development.net/setting-gulp-sass/">Setting up Gulp / Sass</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY">Webpack 2 Video Tutorials</a></li>
 </ul>
 
