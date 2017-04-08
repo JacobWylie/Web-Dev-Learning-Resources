@@ -143,6 +143,8 @@
 <li><a href="http://cssreference.io/">CSS Reference</a></li>
 <li><a href="https://getmdl.io/index.html">Material Design Lite</a></li>
 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
+<li><a href="http://www.projectforrest.com/path/68">Introduction to Flexbox</a></li>
+<li><a href="https://internetingishard.com/html-and-css/flexbox/">Interneting is Hard: Flexbox</a></li>
 <li><a href="https://gist.github.com/MWins/e441e28320b1a748f1f2">Frontend Frameworks</a></li>
 <li><a href="https://github.com/logeshpaul/Frontend-Cheat-Sheets">Frontend Cheat Sheets</a></li>
 <li><a href="http://masonry.desandro.com/">Masonry: Grid Layout</a></li>
@@ -162,6 +164,7 @@
 <li><a href="https://github.com/sahat/hackathon-starter">Hackathon Starter</a></li>
 <li><a href="https://nodeschool.io/">Node School</a></li>
 <li><a href="https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm">The Basics of Package.json in Node.js and npm</a></li>
+<li><a href="https://www.youtube.com/watch?v=XALsMSgii4g">Build a Chat App</a></li>
 </ul>
 
 <br>
