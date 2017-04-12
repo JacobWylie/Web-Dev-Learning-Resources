@@ -102,6 +102,7 @@
 <li><a href="https://watchandcode.com/p/practical-javascript">Watch and Code: Practical JavaScript</a></li>
 <li><a href="https://javascript30.com/">JavaScript 30</a></li>
 <li><a href="https://github.com/ericelliott/essential-javascript-links">Essential JavaScript Links</a></li>
+<li><a href="https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27">Free Code Camp Javascript YouTube Videos</a></li>
 <li><a href="http://youmightnotneedjquery.com/">You might not need jQuery</a></li>
 <li><a href="https://github.com/oneuijs/You-Dont-Need-jQuery">You dont need jQuery</a></li>
 <li><a href="https://edabit.com/explore">Edabit</a></li>
