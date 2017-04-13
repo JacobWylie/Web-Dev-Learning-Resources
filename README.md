@@ -52,6 +52,7 @@
 <h4 id='books'>Books</h4>
 <ul>
 <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
+<li><a href="http://exploringjs.com/">Exploring JS</a></li>
 <li><a href="https://www.railstutorial.org/book">Rails Tutorial</a></li>
 <li><a href="https://leanpub.com/the-road-to-learn-react">The Road to Learn React</a></li>
 <li><a href="https://git-scm.com/book/en/v2">Pro Git</a></li>
@@ -98,6 +99,7 @@
 <ul>
 <li><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></li>
 <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
+<li><a href="http://exploringjs.com/">Exploring JS</a></li>
 <li><a href="https://www.udemy.com/understand-javascript/learn/v4/overview">JavaScript: Understanding the Weird Parts</a> *Paid*</li>
 <li><a href="https://watchandcode.com/p/practical-javascript">Watch and Code: Practical JavaScript</a></li>
 <li><a href="https://javascript30.com/">JavaScript 30</a></li>
