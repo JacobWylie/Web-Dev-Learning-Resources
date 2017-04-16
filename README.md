@@ -124,6 +124,7 @@
 <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: React 101</a></li>
 <li><a href="https://github.com/markerikson/react-redux-links">Mark Erikson: React/Redux Links</a></li>
 <li><a href="http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/">React Introduction for People who Know Just Enough jQuery to Get By</a></li>
+<li><a href="https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77">A Vue.js introduction for people who know just enough jQuery to get by</a></li>
 <li><a href="http://buildwithreact.com/">Build With React</a></li>
 <li><a href="http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/">Learn Raw React</a></li>
 <li><a href="http://yoember.com/">Yo Ember</a></li>
