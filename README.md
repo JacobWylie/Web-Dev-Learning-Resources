@@ -31,12 +31,9 @@
 <li><a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview">The Web Developer Bootcamp</a> *Paid*</li>
 <li><a href="http://upskillcourses.com/p/essential-web-developer-course">Upskill: The Essential Web Developer Course</a></li>
 <li><a href="https://beta.freecodecamp.com/">FreeCodeCamp - beta (more up-to-date)</a></li>
-<li><a href="http://thenetninja.co.uk/">The Net Ninja</a></li>
 <li><a href="http://www.theodinproject.com/courses">The Odin Project</a></li>
 <li><a href="https://www.vikingcodeschool.com/prep">The Viking School Prep Work</a></li>
-<li><a href="https://egghead.io/">Egghead</a></li>
 <li><a href="https://www.codeschool.com/">Code School</a> *Paid*</li>
-<li><a href="https://laracasts.com/">Laracasts</a></li>
 <li><a href="https://www.udacity.com/">Udacity</a> *Paid and Free Options*</li>
 <li><a href="https://developers.google.com/training/web/">Google Developer Training</a></li>
 <li><a href="https://blog.petrovic.gr/2016/12/frontend-development-a-learning-guide/">Web Development Learning Guide – A Frontend Approach</a></li>
@@ -121,11 +118,13 @@
 <ul>
 <li><a href="https://reacttraining.com/online/react-fundamentals">React Fundamentals</a></li>
 <li><a href="https://scotch.io/">Scotch.io</a></li>
+<li><a href="https://egghead.io/">Egghead</a></li>
 <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: React 101</a></li>
 <li><a href="https://github.com/markerikson/react-redux-links">Mark Erikson: React/Redux Links</a></li>
 <li><a href="http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/">React Introduction for People who Know Just Enough jQuery to Get By</a></li>
 <li><a href="https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77">A Vue.js introduction for people who know just enough jQuery to get by</a></li>
 <li><a href="http://buildwithreact.com/">Build With React</a></li>
+<li><a href="https://laracasts.com/">Laracasts</a></li>
 <li><a href="http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/">Learn Raw React</a></li>
 <li><a href="http://yoember.com/">Yo Ember</a></li>
 <li><a href="https://www.sitepoint.com/jquery-popular-plugins-list/">Sitepoint: Popular jQuery Plugins</a></li>
