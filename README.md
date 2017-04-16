@@ -74,6 +74,8 @@
 <li><a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 <li><a href="https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ">Mackenzie Child</a></li>
 <li><a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured">The Net Ninja</a></li>
+<li><a href="https://www.youtube.com/user/TechGuyWeb">Tech Guy Web</a></li>
+<li><a href="https://www.youtube.com/user/derekbanas">Derek Banas</a></li>
 <li><a href="http://codepen.io/j-w-v/post/25-learn-to-code-focused-youtube-channels">25 'Learn To Code' Focused YouTube channels</a></li>
 </ul>
 
@@ -121,6 +123,9 @@
 <li><a href="https://scotch.io/">Scotch.io</a></li>
 <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: React 101</a></li>
 <li><a href="https://github.com/markerikson/react-redux-links">Mark Erikson: React/Redux Links</a></li>
+<li><a href="http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/">React Introduction for People who Know Just Enough jQuery to Get By</a></li>
+<li><a href="http://buildwithreact.com/">Build With React</a></li>
+<li><a href="http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/">Learn Raw React</a></li>
 <li><a href="http://yoember.com/">Yo Ember</a></li>
 <li><a href="https://www.sitepoint.com/jquery-popular-plugins-list/">Sitepoint: Popular jQuery Plugins</a></li>
 <li><a href="http://www.unheap.com/">Unheap: A tidy repository of jQuery plugins</a></li>
