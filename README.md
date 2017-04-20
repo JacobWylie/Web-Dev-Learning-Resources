@@ -41,7 +41,7 @@
 <li><a href="https://beta.hacksaw.academy/">Hacksaw Academy</a> *Paid*</li>
 <li><a href="https://www.codecademy.com/">Code Academy</a></li>
 <li><a href="https://www.eventedmind.com/">Evented Mind</a></li>
-<li><a href="https://www.frontendhandbook.com/">Frontend Handbook</a></li>
+<li><a href="https://frontendmasters.com/books/front-end-handbook/2017/">Frontend Handbook 2017</a></li>
 </ul>
 
 <br>
