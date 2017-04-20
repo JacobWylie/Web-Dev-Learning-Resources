@@ -274,7 +274,7 @@
 <li><a href="https://www.honeypot.io">Honey Pot</a></li>
 <li><a href="https://www.hired.com">Hired</a></li>
 <li><a href="https://whoishiring.io/">Whoishiring.io</a></li>
-<li><a href="https://firstdevjob.com/">Frist Dev Job</a></li>
+<li><a href="https://firstdevjob.com/">First Dev Job</a></li>
 <li><a href="https://www.xing.com">Xing</a></li>
 <li><a href="https://www.linkedin.com">LinkedIn</a></li>
 <li><a href="https://de.indeed.com/">Indeed</a></li>
@@ -302,6 +302,8 @@
 <li><a href="https://www.stellenanzeigen.de/">Stellanzeigen</a></li>
 <li><a href="http://www.meinestadt.de/">Meinestadt</a></li>
 <li><a href="http://de.gigajob.com/index.html">Giga Job</a></li>
+<li><a href="https://github.com/j-delaney/easy-application">Easy Application</a></li>
+<li><a href="https://github.com/jessicard/remote-jobs">Remote Jobs</a></li>
 </ul>
 
 
