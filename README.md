@@ -78,16 +78,11 @@
 
 <br>
 <img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_286-128.png" alt="html logo">
-<h4 id='html'>HTML/CSS</h4>
+<h4 id='html'>HTML/CS</h4>
 <ul>
 <li><a href="http://marksheet.io/">MarkSheet</a></li>
 <li><a href="http://learn.shayhowe.com">Learn to Code HTML &amp; CSS</a></li>
 <li><a href="https://internetingishard.com/html-and-css/">HTML and CSS is Hard</a></li>
-<li><a href="http://flukeout.github.io/#">CSS Diner</a></li>
-<li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
-<li><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
-<li><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></li>
-<li><a href="http://cssgridgarden.com/">Grid Garden</a></li>
 <li><a href="https://openclassrooms.com/courses/build-your-website-with-html5-and-css3/practical-exercise-step-by-step-creation-of-a-website">Open Class Room</a></li>
 <li><a href="https://dash.generalassemb.ly/">Dash - General Assembly</a></li>
 </ul>
@@ -124,6 +119,7 @@
 <li><a href="http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/">React Introduction for People who Know Just Enough jQuery to Get By</a></li>
 <li><a href="https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77">A Vue.js introduction for people who know just enough jQuery to get by</a></li>
 <li><a href="http://buildwithreact.com/">Build With React</a></li>
+<li><a href="https://learnredux.com/">Learn Redux</a></li>
 <li><a href="https://laracasts.com/">Laracasts</a></li>
 <li><a href="http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/">Learn Raw React</a></li>
 <li><a href="http://yoember.com/">Yo Ember</a></li>
@@ -150,8 +146,14 @@
 <ul>
 <li><a href="http://cssreference.io/">CSS Reference</a></li>
 <li><a href="https://getmdl.io/index.html">Material Design Lite</a></li>
+<li><a href="https://flexbox.io/">What the Flexbox?</a></li>
 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
 <li><a href="http://www.projectforrest.com/path/68">Introduction to Flexbox</a></li>
+<li><a href="http://flukeout.github.io/#">CSS Diner</a></li>
+<li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
+<li><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
+<li><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></li>
+<li><a href="http://cssgridgarden.com/">Grid Garden</a></li>
 <li><a href="https://internetingishard.com/html-and-css/flexbox/">Interneting is Hard: Flexbox</a></li>
 <li><a href="https://gist.github.com/MWins/e441e28320b1a748f1f2">Frontend Frameworks</a></li>
 <li><a href="https://github.com/logeshpaul/Frontend-Cheat-Sheets">Frontend Cheat Sheets</a></li>
