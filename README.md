@@ -24,8 +24,8 @@
 <h3>-In No Particular Order-</h3>
 
 <br>
-<img src="https://cdn1.iconfinder.com/data/icons/customicondesign-office-shadow/128/Courses.png" alt="bootcamp logo">
-<h4 id='bootcamp'>Bootcamp Style</h4>
+<img id='bootcamp' src="https://cdn1.iconfinder.com/data/icons/customicondesign-office-shadow/128/Courses.png" alt="bootcamp logo">
+<h4>Bootcamp Style</h4>
 <ul>
 <li><a href="https://teamtreehouse.com/home">Team Treehouse</a> *Paid*</li>
 <li><a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview">The Web Developer Bootcamp</a> *Paid*</li>
@@ -45,8 +45,8 @@
 </ul>
 
 <br>
-<img src="https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/x-office-address-book-128.png" alt="book logo">
-<h4 id='books'>Books</h4>
+<img id='books' src="https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/x-office-address-book-128.png" alt="book logo">
+<h4>Books</h4>
 <ul>
 <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
 <li><a href="http://exploringjs.com/">Exploring JS</a></li>
@@ -58,8 +58,8 @@
 </ul>
 
 <br>
-<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-128.png" alt="youtube logo">
-<h4 id='youtube'>YouTube Channels</h4>
+<img id='youtube' src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-128.png" alt="youtube logo">
+<h4>YouTube Channels</h4>
 <ul>
 <li><a href="https://www.youtube.com/user/LevelUpTuts">Level Up Tuts</a></li>
 <li><a href="https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw">Learn Code Academy</a></li>
@@ -77,8 +77,8 @@
 </ul>
 
 <br>
-<img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_286-128.png" alt="html logo">
-<h4 id='html'>HTML/CS</h4>
+<img id='html' src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_286-128.png" alt="html logo">
+<h4>HTML/CS</h4>
 <ul>
 <li><a href="http://marksheet.io/">MarkSheet</a></li>
 <li><a href="http://learn.shayhowe.com">Learn to Code HTML &amp; CSS</a></li>
@@ -88,8 +88,8 @@
 </ul>
 
 <br>
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" alt="javascript logo">
-<h4 id='javascript'>JavaScript</h4>
+<img id='javascript' src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" alt="javascript logo">
+<h4>JavaScript</h4>
 <ul>
 <li><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></li>
 <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
@@ -108,8 +108,8 @@
 </ul>
 
 <br>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" alt="react logo">
-<h4 id='frameworks'>JavaScript Frameworks/Libraries</h4>
+<img id='frameworks' src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" alt="react logo">
+<h4>JavaScript Frameworks/Libraries</h4>
 <ul>
 <li><a href="https://reacttraining.com/online/react-fundamentals">React Fundamentals</a></li>
 <li><a href="https://scotch.io/">Scotch.io</a></li>
@@ -131,8 +131,8 @@
 </ul>
 
 <br>
-<img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/158/Ruby_on_Rails_2-128.png" alt="rails logo">
-<h4 id='ruby'>Ruby/Ruby on Rails</h4>
+<img id='ruby' src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/158/Ruby_on_Rails_2-128.png" alt="rails logo">
+<h4>Ruby/Ruby on Rails</h4>
 <ul>
 <li><a href="https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course?utm_source=fcc_medium&utm_campaign=blog_post_ideas_for_react_rails_apps&utm_medium=blog_post_ideas_for_react_rails_apps">The Free React on Rails 5 course</a></li>
 <li><a href="http://tryruby.org/levels/1/challenges/0">Try Ruby</a></li>
@@ -141,8 +141,8 @@
 </ul>
 
 <br>
-<img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700035-icon-77-document-file-css-128.png" alt="css logo">
-<h4 id='cssStuff'>CSS Stuff</h4>
+<img id='cssStuff' src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700035-icon-77-document-file-css-128.png" alt="css logo">
+<h4>CSS Stuff</h4>
 <ul>
 <li><a href="http://cssreference.io/">CSS Reference</a></li>
 <li><a href="https://getmdl.io/index.html">Material Design Lite</a></li>
@@ -166,8 +166,8 @@
 </ul>
 
 <br>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/188/nodejs-light-128.png" alt="node logo">
-<h4 id='node'>Node.js</h4>
+<img id='node' src="https://cdn4.iconfinder.com/data/icons/logos-3/188/nodejs-light-128.png" alt="node logo">
+<h4>Node.js</h4>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=Z1ktxiqyiLA&feature=youtu.be">Node.js System with Passport</a></li>
 <li><a href="https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/">npm for Beginners</a></li>
@@ -178,8 +178,8 @@
 </ul>
 
 <br>
-<img src="https://cdn0.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/Programming_Development_Api-128.png" alt="api logo">
-<h4 id='api'>API</h4>
+<img id='api' src="https://cdn0.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/Programming_Development_Api-128.png" alt="api logo">
+<h4>API</h4>
 <ul>
 <li><a href="https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.pfymel1ln">What is an API? In English, please.</a></li>
 <li><a href="https://github.com/toddmotto/public-apis">List of Public APIs</a></li>
@@ -188,8 +188,8 @@
 </ul>
 
 <br>
-<img src="https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-26-128.png" alt="design logo">
-<h4 id='design'>Design</h4>
+<img id='design' src="https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-26-128.png" alt="design logo">
+<h4>Design</h4>
 <ul>
 <li><a href="https://blog.benroux.me/designing-as-a-developer/">Designing as a Developer</a></li>
 <li><a href="https://resilientwebdesign.com/introduction/">Resilient Web Design</a></li>
@@ -210,8 +210,8 @@
 </ul>
 
 <br>
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/reddit-128.png" alt="reddit logo">
-<h4 id='reddit'>Reddit</h4>
+<img id='reddit' src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/reddit-128.png" alt="reddit logo">
+<h4>Reddit</h4>
 <ul>
 <li><a href="https://www.reddit.com/r/webdev/">r/webdev</a></li>
 <li><a href="https://www.reddit.com/r/learnprogramming/">r/learnprogramming</a></li>
@@ -229,8 +229,8 @@
 </ul>
 
 <br>
-<img src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/podcast-128.png" alt="podcast logo">
-<h4 id='podcasts'>Podcasts</h4>
+<img id='podcasts' src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/podcast-128.png" alt="podcast logo">
+<h4>Podcasts</h4>
 <ul>
 <li><a href="http://frontendhappyhour.com/">Front End Happy Hour</a></li>
 <li><a href="http://www.codenewbie.org/">Code Newbie</a></li>
@@ -239,8 +239,8 @@
 </ul>
 
 <br>
-<img src="https://cdn3.iconfinder.com/data/icons/social-circle/512/647404-share-128.png" alt="links logo">
-<h4 id='assorted'>Assorted Tools/Sites</h4>
+<img id='assorted' src="https://cdn3.iconfinder.com/data/icons/social-circle/512/647404-share-128.png" alt="links logo">
+<h4>Assorted Tools/Sites</h4>
 <ul>
 <li><a href="https://overapi.com">Over API</a></li>
 <li><a href="https://hackr.io/">Hackr.io</a></li>
@@ -270,8 +270,8 @@
 </ul>
 
 <br>
-<img src="https://cdn2.iconfinder.com/data/icons/mixed-rounded-flat-icon/512/briefcase-128.png" alt="job logo">
-<h4 id='jobs'>Jobs</h4>
+<img id='jobs' src="https://cdn2.iconfinder.com/data/icons/mixed-rounded-flat-icon/512/briefcase-128.png" alt="job logo">
+<h4>Jobs</h4>
 <ul>
 <li><a href="https://www.honeypot.io">Honey Pot</a></li>
 <li><a href="https://www.hired.com">Hired</a></li>
