@@ -104,7 +104,7 @@
 <li><a href="https://edabit.com/explore">Edabit</a></li>
 <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">JavaScript Interview Questions</a></li>
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JavaScript Concepts</a></li>
-<li><a href="http://www.deadcoderising.com/2017-03-28-es6-destructuring-an-elegant-way-of-extracting-data-from-arrays-and-objects-in-javascript/">ES6: Destructuring — an elegant way of extracting data from arrays and objects in JavaScript</a></li>
+<li><a href="http://www.projectforrest.com/path/97">Introduction to ES6 Destructuring</a></li>
 </ul>
 
 <br>
