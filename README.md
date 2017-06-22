@@ -78,7 +78,7 @@
 
 <br>
 <img id='html' src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_286-128.png" alt="html logo">
-<h4>HTML/CS</h4>
+<h4>HTML/CSS</h4>
 <ul>
 <li><a href="http://marksheet.io/">MarkSheet</a></li>
 <li><a href="http://learn.shayhowe.com">Learn to Code HTML &amp; CSS</a></li>
