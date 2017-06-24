@@ -129,6 +129,7 @@
 <li><a href="http://front-end-development.net/setting-gulp-sass/">Setting up Gulp / Sass</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY">Webpack 2 Video Tutorials</a></li>
 <li><a href="https://medium.com/this-dot-labs/building-modern-web-applications-in-2017-791d2ef2e341">Choosing a frontend framework in 2017</a></li>
+<li><a href="http://www.react.express">The all-in-one beginner's guide to modern React application development!</a></li>
 </ul>
 
 <br>
