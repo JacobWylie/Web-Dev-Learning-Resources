@@ -105,6 +105,7 @@
 <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">JavaScript Interview Questions</a></li>
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JavaScript Concepts</a></li>
 <li><a href="http://www.projectforrest.com/path/97">Introduction to ES6 Destructuring</a></li>
+<li><a href="https://www.reddit.com/r/learnprogramming/comments/6k0egl/16_javascript_web_development_tutorials_articles/">16 JavaScript Web Development Tutorials & Articles I wrote this month</a></li>
 </ul>
 
 <br>
@@ -238,6 +239,7 @@
 <li><a href="http://www.codenewbie.org/">Code Newbie</a></li>
 <li><a href="https://devchat.tv/js-jabber">JavaScript Jabber</a></li>
 <li><a href="http://shoptalkshow.com/">Shop Talk</a></li>
+<li><a href="https://syntax.fm/">Syntax (Wes Bos & Scott Tolinski)</a></li>
 </ul>
 
 <br>
