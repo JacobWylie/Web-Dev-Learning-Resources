@@ -106,6 +106,7 @@
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JavaScript Concepts</a></li>
 <li><a href="http://www.projectforrest.com/path/97">Introduction to ES6 Destructuring</a></li>
 <li><a href="https://www.reddit.com/r/learnprogramming/comments/6k0egl/16_javascript_web_development_tutorials_articles/">16 JavaScript Web Development Tutorials & Articles I wrote this month</a></li>
+<li><a href="https://www.udacity.com/course/javascript-design-patterns--ud989#">JavaScript Design Patterns (Udacity)</a></li>
 </ul>
 
 <br>
