@@ -241,6 +241,7 @@
 <li><a href="https://devchat.tv/js-jabber">JavaScript Jabber</a></li>
 <li><a href="http://shoptalkshow.com/">Shop Talk</a></li>
 <li><a href="https://syntax.fm/">Syntax (Wes Bos & Scott Tolinski)</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/edit#gid=1458779204">Popular Programming Podcast episodes</a></li>
 </ul>
 
 <br>
