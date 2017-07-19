@@ -80,6 +80,7 @@
 <img id='html' src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_286-128.png" alt="html logo">
 <h4>HTML/CSS</h4>
 <ul>
+<li><a href="https://arkmont.com/the-ultimate-html-developer-course/">The Ultimate HTML Developer</a></li>
 <li><a href="http://marksheet.io/">MarkSheet</a></li>
 <li><a href="http://learn.shayhowe.com">Learn to Code HTML &amp; CSS</a></li>
 <li><a href="https://internetingishard.com/html-and-css/">HTML and CSS is Hard</a></li>
@@ -148,6 +149,7 @@
 <img id='cssStuff' src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700035-icon-77-document-file-css-128.png" alt="css logo">
 <h4>CSS Stuff</h4>
 <ul>
+<li><a href="https://arkmont.com/offers/css-masterclass.html">CSS Masterclass</a></li>
 <li><a href="http://cssreference.io/">CSS Reference</a></li>
 <li><a href="https://getmdl.io/index.html">Material Design Lite</a></li>
 <li><a href="https://flexbox.io/">What the Flexbox?</a></li>
